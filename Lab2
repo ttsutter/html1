@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html>
+<head> 
+<title>Movie Critics Website</title>
+    <meta charset="UTF-8">
+    <meta name= "discription" content="Movie Reviews">
+    <meta name="keywords" content= "movies,review,netflix,hulu">
+    <meta name="author" content="Trey Sutter">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style> 
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+img {
+  display: block;
+  margin-left: left;
+  margin-right: auto;
+}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<link href="css/stylesheet2.css" rel="stylesheet">
+</head>
+<div class="header">
+ <h1>Movie Critics</h1> 
+   <a href="#"><img src="images/MovieCriticsLogo.jpg" width="125" height="125" alt="Home Logo" ></a>
+ </div>
+ 
+<body>
+
+<div class="topnav">
+  <a href="Movie Pg 2.html">Top Movies!</a>
+  <a href="#">About Us!</a>
+  <a href="#">Contact Us!</a>
+</div>
+
+<img src="images/Capture13.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture14.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture15.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture16.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture17.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture18.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture19.png" alt="Wireframe" width="150" height="150"
+<img src="images/Capture20.png" alt="Wireframe" width="150" height="150"
+
+
+
+</body>
+</html>
